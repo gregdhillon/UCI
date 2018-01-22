@@ -1,2 +1,3 @@
 # UCI
-UCI School work
+UCI School Work
+Greg Dhillon
